@@ -8,8 +8,9 @@ The repository includes:
         b) ESP8266 Code
  3) Folder containing screen dumps and videos in the presentation powerpoint demonstrating project functionality 
  4) Folder containing project presentation
- 5) Project Design and Architecture
- 6) Architectural Design Decisions
- 7) Deployment Design Decisions
+ 5) Architectural Design Decisions Document
+ 6) Deployment Design Decisions Document
+ 7) Project Design and Architecture Document
+ 8) Project Diagrams for IoTrash Application Document
 
 Pelase visit www.iotrashiot.xyz
