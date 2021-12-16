@@ -4,10 +4,12 @@ This is GitHub repository for Group 5 Final Project: IoTrash. The IoTrash applic
 
 The repository includes:
  1) Folder containing project code
- 2) Folder containing screen dumps and videos in the presentation powerpoint demonstrating project functionality 
- 3) Folder containing project presentation
- 4) Project Design and Architecture
- 5) Architectural Design Decisions
- 6) Deployment Design Decisions
+        a) DjangoWebApp Code
+        b) ESP8266 Code
+ 3) Folder containing screen dumps and videos in the presentation powerpoint demonstrating project functionality 
+ 4) Folder containing project presentation
+ 5) Project Design and Architecture
+ 6) Architectural Design Decisions
+ 7) Deployment Design Decisions
 
 Pelase visit www.iotrashiot.xyz
